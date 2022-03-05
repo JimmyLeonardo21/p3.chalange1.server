@@ -1,0 +1,106 @@
+{
+  "news": [
+    {
+      "id": 3,
+      "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2021/12/01/rakornas-5-dsp-1_169.jpeg?w=700&q=90",
+      "title": "Uji Coba Masuk Bali Tanpa Karantina Mulai 14 Maret, Berlaku Se-RI Jika Sukses",
+      "content": "Jakarta - Pemerintah bakal memberlakukan uji coba tanpa karantina untuk pelaku perjalanan luar negeri (PPLN) yang masuk ke Bali. Uji coba itu direncanakan akan dimulai pada 14 Maret 2022.'Pemerintah juga akan melakukan uji coba tanpa karantina bagi PPLN yang datang ke Bali dan direncanakan akan berlaku 14 Maret mendatang dengan beberapa persyaratannya' ujar Menko Marves Luhut Binsar Pandjaitan dalam jumpa pers virtual, Minggu (27/2/2022).Luhut mengatakan uji coba tanpa karantina di Bali ini bisa diberlakukan sebelum 14 Maret. Menurutnya, uji coba dipercepat kalau tren kasus COVID-19 di Bali menurun dalam seminggu ke depan.",
+      "createdAt": "2022-02-21 14:33:01.144 +0700",
+      "uodatedAt": "2022-02-21 14:33:01.144 +0700"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/02/27/vanessa-khong-indra-kenz-1_169.png?w=700&q=90",
+      "title": "Bareskrim Ancam Miskinkan Indra Kenz, Kejar Aset Pacar hingga Keluarga",
+      "content": "Jakarta - Bareskrim Polri mewanti-wanti pihak yang menerima uang hasil kejahatan dari tersangka kasus dugaan investasi bodong aplikasi Binomo, Indra Kenz. Polisi membuka peluang untuk mengejar aset pacar hingga keluarga dari Indra Kenz.'Itu kan ada namanya tindak pidana pencucian uang. Kita akan cek. Kalau pacarnya pun terima uang ya kita kejar, keluarganya punya uang kita kejar. Itu namanya tindak pidana pencucian uang,' ujar Direktur Tindak Pidana Ekonomi Khusus (Dirtipideksus) Bareskrim Brigjen Whisnu Hermawan saat dihubungi, Selasa (1/3/2022).'Pokoknya pencucian uang itu kita follow the money, uang dapat berapa? Ke mana saja? Ke pacarnya, ke keluarganya, sita-sita semua gitu. Makanya dimiskinkan,' sambungnya.",
+      "createdAt": "2022-02-21 14:33:01.144 +0700",
+      "uodatedAt": "2022-02-21 14:33:01.144 +0700"
+    },
+    {
+      "title": "Komunis Dibawa-bawa Ukraina Saat Minta Dukungan Indonesia Lawan Rusia ",
+      "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/03/02/kota-kota-ukraina-luluh-lantak-digempur-rusia-12_169.jpeg?w=700&q=90",
+      "categoryId": "3",
+      "content": "Jakarta - Duta Besar Ukraina untuk Indonesia Vasyl Hamianin meminta Indonesia bersikap mendukung Ukraina melawan Rusia. Dia membawa-bawa Indonesia sebagai bangsa yang tidak tunduk terhadap tipu daya komunis.Hal tersebut disampaikan Vasyl Hamianin dalam keterangan tertulis. Dia awalnya memohon dukungan kepada rakyat Indonesia untuk mendukung mereka melawan penjajah.'Rakyat Indonesia, dukunglah kami. Merdeka atau mati!' kata Dubes Vasyl Hamianin dalam keterangan tertulis yang diterima detikcom, Rabu (2/3/2022).",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "content": "dsdsssdsdsdds",
+      "imgUrl": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRpArxXqy72uh1GV_9she0soeBDqKlzgxEGRcyKauRSelk5XK1yR-P7cZO-p9LHJm4IqnoB4t4HzsEKANg-xLW1Wbe0.jpg?r=40a",
+      "categoryId": "4",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "jimmy",
+      "email": "jimmy@gmail.com",
+      "password": 12345
+    },
+    {
+      "email": "jimmy.leonardo21@gmail.com",
+      "password": "123456",
+      "name": "jimmy",
+      "id": 2
+    },
+    {
+      "username": "jimmy leonardo",
+      "email": "jimmy.leonardo21@gmail.com",
+      "address": "Kp pondok udik rt 03/03 kecamatan kang kabupaten bogor",
+      "password": "1234567",
+      "role": "admin",
+      "phoneNumber": "12345678",
+      "id": 3
+    },
+    {
+      "username": "jimmy leonardo",
+      "email": "jimmy.leonardo21@gmail.com",
+      "address": "Kp pondok udik rt 03/03 kecamatan kang kabupaten bogor",
+      "password": "111111111111111",
+      "role": "admin",
+      "phoneNumber": "1111111111111111111111",
+      "id": 4
+    },
+    {
+      "username": "berhasil ",
+      "email": "aksdkasdnks@gmail.com",
+      "password": "1234567",
+      "role": "admin",
+      "phoneNumber": "1234567890",
+      "address": "1234567asdfghjk",
+      "id": 5
+    },
+    {
+      "username": "berhasil ",
+      "email": "aksdkasdnks@gmail.com",
+      "password": "1234567",
+      "role": "admin",
+      "phoneNumber": "1234567890",
+      "address": "1234567asdfghjk",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "sosial"
+    },
+    {
+      "id": 2,
+      "category": "bencana alam"
+    },
+    {
+      "id": 3,
+      "category": "kerusuhan"
+    },
+    {
+      "id": 4,
+      "category": "politik"
+    },
+    {
+      "id": 5,
+      "category": "other"
+    }
+  ]
+}
